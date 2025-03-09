@@ -11,7 +11,7 @@ MAC_FILE = "mac.txt"
 def generate_mac(mac_key, iv, ciphertext):
     return hmac.new(mac_key, iv + ciphertext, hashlib.sha256).hexdigest()
 
-# 🔹 Читання файлів (тепер правильне!)
+# 🔹 Читання файлів
 def read_file(filename, binary=False):
     try:
         mode = "rb" if binary else "r"
