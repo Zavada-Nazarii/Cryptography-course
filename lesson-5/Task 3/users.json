@@ -1,0 +1,23 @@
+{
+    "Nazarii": {
+        "username": "Nazarii",
+        "iterations": 500000,
+        "salt": "7020b2262c3fe6a189a3f205b8169145",
+        "hash": "e39e14b8e1ba70f51d2d9eb2ef323e81f92ed426a4e831841c17b85fe592d5fb",
+        "aes_key": "454UuOG6cPUdLZ6y7zI+gQ=="
+    },
+    "Reed": {
+        "username": "Reed",
+        "iterations": 500000,
+        "salt": "195ea6d485b0e940907f8a62b69d92b4",
+        "hash": "eba8b12066048c59ae79be0c36f56f5d7294cb4666b93923ea0bf35b0a40266f",
+        "aes_key": "66ixIGYEjFmueb4MNvVvXQ=="
+    },
+    "Useradmin": {
+        "username": "Useradmin",
+        "iterations": 100000,
+        "salt": "ff634ea1a3fea36de0a7a2e46cfa7b8b",
+        "hash": "37ae93e324ca235cad90bf358156d2906e1bc8980f06b7fd030754bb1f313b0f",
+        "aes_key": "N66T4yTKI1ytkL81gVbSkA=="
+    }
+}
