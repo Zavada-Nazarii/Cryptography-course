@@ -10,3 +10,7 @@
 
 1. стійкий криптографічний хеш для збереження;
 2. стійкий криптографічний `AES-ключ` який згенеровано на основі стійкого криптографічного хешу. 
+
+# Вміст
+
+[create_user.py](https://github.com/Zavada-Nazarii/Cryptography-course/blob/master/lesson-5/Task%203/create_user.py) скрипт який приймає пароль та логін користувача, та зберігає дані у файл [users.json](https://github.com/Zavada-Nazarii/Cryptography-course/blob/master/lesson-5/Task%203/users.json)
