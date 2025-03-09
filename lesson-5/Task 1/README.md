@@ -25,7 +25,7 @@
 
 # Вміст
 
-1. [hash_passwd.py](https://aes.cryptohack.org/ecb_oracle/) скрипт для хешування паролів із файлу [passwords.txt](https://aes.cryptohack.org/ecb_oracle/)
-2. [check_passwd.py](https://aes.cryptohack.org/ecb_oracle/) скрипт для перевірки паролю із його хешом, чи хешування коректно зберігає та валідує збережений і введений користувачем пароль
-3. [passwords.txt](https://aes.cryptohack.org/ecb_oracle/) список паролів
-4. [hashed_passwords.json](https://aes.cryptohack.org/ecb_oracle/) хешовані паролі
+1. [hash_passwd.py](https://github.com/Zavada-Nazarii/Cryptography-course/blob/master/lesson-5/Task%201/hash_passwd.py) скрипт для хешування паролів із файлу [passwords.txt](https://github.com/Zavada-Nazarii/Cryptography-course/blob/master/lesson-5/Task%201/passwords.txt)
+2. [check_passwd.py](https://github.com/Zavada-Nazarii/Cryptography-course/blob/master/lesson-5/Task%201/check_passwd.py) скрипт для перевірки паролю із його хешом, чи хешування коректно зберігає та валідує збережений і введений користувачем пароль
+3. [passwords.txt](https://github.com/Zavada-Nazarii/Cryptography-course/blob/master/lesson-5/Task%201/passwords.txt) список паролів
+4. [hashed_passwords.json](https://github.com/Zavada-Nazarii/Cryptography-course/blob/master/lesson-5/Task%201/hashed_passwords.json) хешовані паролі
