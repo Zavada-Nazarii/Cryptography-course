@@ -1,0 +1,9 @@
+===== cert1.pem
+notBefore=Feb  3 04:17:53 2025 GMT
+notAfter=May  4 05:16:18 2025 GMT
+===== cert2.pem
+notBefore=Dec 13 09:00:00 2023 GMT
+notAfter=Feb 20 14:00:00 2029 GMT
+===== cert3.pem
+notBefore=Nov 15 03:43:21 2023 GMT
+notAfter=Jan 28 00:00:42 2028 GMT
