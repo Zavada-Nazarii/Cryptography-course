@@ -4,3 +4,4 @@ __pycache__
 # GEdit temporary files
 *~
 *.snap
+.gitconfig

@@ -1,0 +1,1 @@
+cat image.png | ssh-keygen -Y check-novalidate -n telegram -f robot_dreams.pub -s image.png.sig
